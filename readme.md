@@ -59,7 +59,7 @@ $ yarn server
 
 *Before running `yarn server`, edit the files `package.json` and `/sr/services/api.ts`, changing the IP to your local IP.
 
-```cbash
+```shell
 # package.json
 # Edit the IP in this line
 ...
