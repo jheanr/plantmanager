@@ -57,9 +57,9 @@ $ expo start
 $ yarn server
 ```
 
-*Before running `yarn server`, dit the files `package.json` and `/sr/services/api.ts`, changing the IP to your local IP.
+*Before running `yarn server`, edit the files `package.json` and `/sr/services/api.ts`, changing the IP to your local IP.
 
-```shell
+```cbash
 # package.json
 # Edit the IP in this line
 ...
